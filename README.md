@@ -25,7 +25,7 @@ Kakao.Link.createTalkLinkButton({
   },
   webButton: {
     text: 'LINK TEXT IN KAKAOTALK',
-    url: 'SHARED LINK URL')
+    url: 'SHARED LINK URL'
   }
 });
 </script>
